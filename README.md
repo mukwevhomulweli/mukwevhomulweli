@@ -1,5 +1,5 @@
-PayPal System.
-PayPal is a popular secure platform that facilitates payments in different currencies between individuals and businesses,which is primarily used in the financial technology industry by business owners,buyers,sellers,senders
+
+PayPal System is a popular secure platform that facilitates payments in different currencies between individuals and businesses,which is primarily used in the financial technology industry by business owners,buyers,sellers,senders
 ,receivers and other professionals who need to make transactions in different currencies. It enables users to link their bank accounts, credit cards, or PayPal balances to facilitate transactions. PayPal operates in multiple
 countries and supports various currencies, providing international payment services.
 There are two com components which i have implemeted which are 
